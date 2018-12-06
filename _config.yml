@@ -361,8 +361,8 @@ han: false
 
 # Disqus
 disqus:
-  enable: false
-  shortname: vicvon
+  enable: true
+  shortname: vicvon1
   count: true
 
 # Hypercomments
